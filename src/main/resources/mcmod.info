@@ -1,0 +1,16 @@
+[
+{
+  "modid": "automine",
+  "name": "AutoMine",
+  "description": "Mod that automatically mines for MapleCraftMC.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Longeh"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
